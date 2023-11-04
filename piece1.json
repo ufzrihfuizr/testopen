@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "nom": "Lebron XXI",
+        "prix": "199,99" ,
+        "categorie": "1 couleur",
+        "image": "1.png",
+        "description": "Chaussures de basket",
+        "disponibilite": true
+    },
+    {
+        "id": 2,
+        "nom": "Lebron XXI",
+        "prix": "199,99" ,
+        "categorie": "1 couleur",
+        "image": "2.png",
+        "description": "Chaussures de basket",
+        "disponibilite": true
+    },
+    {
+        "id": 3,
+        "nom": "Lebron XXI",
+        "prix": "199,99" ,
+        "categorie": "1 couleur",
+        "image": "3.png",
+        "description": "Chaussures de basket",
+        "disponibilite": true
+    },
+    {
+        "id": 4,
+        "nom": "Lebron XXI",
+        "prix": "199,99" ,
+        "categorie": "1 couleur",
+        "image": "4.png",
+        "description": "Chaussures de basket",
+        "disponibilite": true
+    },
+    {
+        "id": 5,
+        "nom": "Lebron XXI",
+        "prix": "199,99" ,
+        "categorie": "1 couleur",
+        "image": "5.png",
+        "description": "Chaussures de basket",
+        "disponibilite": true
+    }
+]
